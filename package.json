@@ -1,0 +1,11 @@
+{
+  "devDependencies": {
+    "@rollup/plugin-alias": "^5.1.1",
+    "vite": "^6.2.5"
+  },
+  "dependencies": {
+    "@types/three": "^0.175.0",
+    "three": "^0.175.0",
+    "three-stdlib": "^2.35.14"
+  }
+}
